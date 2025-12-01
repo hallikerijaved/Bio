@@ -4,8 +4,7 @@ JAVED HALLIKERI - PORTFOLIO WEBSITE
 
 Author: Javed Hallikeri  
 Email: javedhallikeri3993@gmail.com  
-Phone: +91 777 687 3993  
-Location: Sangli, Maharashtra, India  
+Location: India  
 Live Demo: https://hallikerijaved.github.io/bio
 
 ----------------------------------
