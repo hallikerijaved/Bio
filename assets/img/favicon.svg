@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Javed Hallikeri favicon</title>
+  <desc id="desc">Clean rounded square icon with the initials JH.</desc>
+  <defs>
+    <linearGradient id="bg" x1="28" y1="20" x2="228" y2="236" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07121f" />
+      <stop offset="1" stop-color="#173b6c" />
+    </linearGradient>
+    <linearGradient id="accent" x1="62" y1="56" x2="192" y2="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#63d7ff" />
+      <stop offset="1" stop-color="#149ddd" />
+    </linearGradient>
+  </defs>
+
+  <rect width="256" height="256" rx="64" fill="url(#bg)" />
+  <path d="M128 42c52 0 94 42 94 94s-42 94-94 94S34 188 34 136 76 42 128 42Zm0 20c-41 0-74 33-74 74s33 74 74 74 74-33 74-74-33-74-74-74Z" fill="url(#accent)" opacity="0.95" />
+  <path d="M92 88h28v62c0 15-4 27-12 35-8 8-20 12-36 12-10 0-19-2-27-7v-25c7 4 13 6 20 6 8 0 15-2 19-6 5-4 8-11 8-20V88Z" fill="#f8fbff" />
+  <path d="M137 88h27v34h29V88h27v100h-27v-40h-29v40h-27V88Z" fill="#f8fbff" />
+</svg>
