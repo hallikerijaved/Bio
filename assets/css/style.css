@@ -639,35 +639,36 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  padding: 15px;
-  color: #f4f6fd;
+background: #0f172a;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px 10px;
   font-size: 14px;
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 300px;
-  z-index: 9999;
-  background: #040b14;
 }
 
-#footer .copyright {
-  text-align: center;
+#footer .container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+#footer strong {
+  color: #38bdf8;
 }
 
 #footer .credits {
-  padding-top: 5px;
-  text-align: center;
+  margin-top: 8px;
   font-size: 13px;
-  color: #eaebf0;
+  color: #cbd5f5;
 }
 
-@media (max-width: 1199px) {
+/* Responsive */
+@media (max-width: 600px) {
   #footer {
-    position: static;
-    width: auto;
-    padding-right: 20px 15px;
+    font-size: 12px;
   }
 }
+
+
 
 
 /* Fix for Internship section full-screen background */
